@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ivo bryan</h1>
 <h3 align="center">A passionate frontend developer fr</h3>
 
+https://github-profile-trophy.vercel.app/?username=b-ivo&theme=dark
+
 - 🔭 I’m currently working on **Movie App**
 
 - 🌱 I’m currently learning **Three js Python**
